@@ -1,0 +1,32 @@
+h1{
+    color:brown;
+}
+
+.header{
+    background-color: chartreuse;
+}
+
+.menu{
+    background-color: gold;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: lightseagreen;
+    text-align: center;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    background-color: mediumvioletred;
+}
+
+.blast{
+    text-align: center;
+    background-color:palegreen;
+}
+
